@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack",
+  "description": "An elegant, responsive academic assessment planner and calendar with progress tracking, custom notes, and automatic dark/light mode adjustment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
